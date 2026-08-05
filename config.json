@@ -1,0 +1,134 @@
+{
+  "options": [
+    {
+      "id": "start",
+      "title": {
+        "en": "Locate these Consoles in the 2nd Floor Conference room",
+        "es": "Localice estas consolas en la sala de conferencias del 2do piso"
+      },
+      "steps": [
+        {
+          "instruction": {
+            "en": "You can find these console atop the shared table. Looks something like this:",
+            "es": "Puede encontrar estas consolas encima de la mesa compartida. Se ven algo así:"
+          },
+          "image": "2ndFL.MainConsoles.jpg",
+          "alt": {
+            "en": "Main Console Units",
+            "es": "Unidades de consola principal"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Let's start from scratch, try to reset the console to start from the home screen",
+            "es": "Comencemos desde cero, intente restablecer la consola para comenzar desde la pantalla de inicio"
+          },
+          "video_url": "https://drive.google.com/file/d/1xz-YCEFSRWmnSMcV2Pm9RkVYI9Yclle4/view?usp=sharing",
+          "alt": {
+            "en": "Video showing how to exit out of device mode and return to HOME",
+            "es": "Video que muestra cómo salir del modo dispositivo y regresar a HOME"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Let's first enable our sound. Turn your attention to this screen",
+            "es": "Primero, habilitemos el sonido. Dirija su atención a esta pantalla"
+          },
+          "image": "2ndFL.SoundConsole.jpg",
+          "alt": {
+            "en": "Shows the sound input console",
+            "es": "Muestra la consola de entrada de sonido"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Touch the screen to activate it and enable the POLY setting",
+            "es": "Toque la pantalla para activarla y habilite la configuración POLY"
+          },
+          "image": "2ndFL.SoundConsolePoly.jpg",
+          "alt": {
+            "en": "What the Sound Console looks like after activating Poly input",
+            "es": "Cómo se ve la consola de sonido después de activar la entrada Poly"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Now, let's enable the input for the TV. Let's turn to this console and click on 'Device Mode'",
+            "es": "Ahora, habilitemos la entrada para la TV. Dirijámonos a esta consola y haga clic en 'Modo Dispositivo'"
+          },
+          "image": "2ndFL.MainConsole.DeviceMode.jpg",
+          "alt": {
+            "en": "Picture showing the Device mode Input console",
+            "es": "Imagen que muestra la consola de entrada en Modo Dispositivo"
+          }
+        },
+        {
+          "instruction": {
+            "en": "The next screen should look something like this",
+            "es": "La siguiente pantalla debería verse algo así"
+          },
+          "image": "2ndFL.MainConsole.DeviceMode.ON.jpg",
+          "alt": {
+            "en": "Picture showing the input console after Device mode",
+            "es": "Imagen que muestra la consola de entrada después del Modo Dispositivo"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Now let's turn our attention to the TV",
+            "es": "Ahora centrémonos en la TV"
+          },
+          "image": "2ndFL.MainTV.jpg",
+          "alt": {
+            "en": "Pic showing the Main TV",
+            "es": "Imagen que muestra la TV principal"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Is the TV on? If not, try turning it on like so",
+            "es": "¿Está encendida la TV? Si no, intente encenderla de esta manera"
+          },
+          "video_url": "https://drive.google.com/file/d/1VszPH4DyilALS636uCHu_xx-8Ng4uUWQ/view?usp=sharing",
+          "alt": {
+            "en": "Video showing how to turn the TV on",
+            "es": "Video que muestra cómo encender la TV"
+          }
+        },
+        {
+          "instruction": {
+            "en": "We are almost there. Let's locate the computer Keyboard and Mouse.",
+            "es": "Ya casi estamos. Localicemos el teclado y el mouse de la computadora."
+          },
+          "image": "2ndFL.MouseKeyboard.jpg",
+          "alt": {
+            "en": "Pic showing the Keyboard and Mouse",
+            "es": "Imagen que muestra el teclado y el mouse"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Make sure that both the Mouse and Keyboard are ON",
+            "es": "Asegúrese de que tanto el mouse como el teclado estén ENCENDIDOS"
+          },
+          "image": "2ndFL.MouseKeyboard.ON.jpg",
+          "alt": {
+            "en": "Pic showing the Keyboard and Mouse switches turned on",
+            "es": "Imagen que muestra los interruptores del teclado y el mouse encendidos"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Try moving the mouse around or click on keys on the keyboard. Now click on 'Other User' on the bottom left and sign into your profile!",
+            "es": "Intente mover el mouse o presione teclas en el teclado. ¡Ahora haga clic en 'Otro usuario' en la parte inferior izquierda e inicie sesión en su perfil!"
+          },
+          "image": "2ndFL.MainTV.Finish.jpg",
+          "alt": {
+            "en": "Pic displaying the 'Other Users' log in screen on the Main TV",
+            "es": "Imagen que muestra la pantalla de inicio de sesión de 'Otros usuarios' en la TV principal"
+          }
+        }
+      ]
+    }
+  ]
+}
