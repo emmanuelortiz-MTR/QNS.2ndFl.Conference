@@ -105,7 +105,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <body>
     <button class="lang-toggle" onclick="toggleLanguage()">🇨🇴 Español</button>
     <h1>
-        <span class="lang-en active">So you want to operate the 2nd floor Conference Room?</span>
+        <span class="lang-en active">So you want to operate the 2nd Fl Conference Room?</span>
         <span class="lang-es">¿Quieres manejar la sala de conferencias del segundo piso?</span>
     </h1>
     <div id="content">
